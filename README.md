@@ -19,7 +19,7 @@ Foco de Estudos: Desenvolvimento robusto com `Python` e `FastAPI`. Arquitetura e
 ![Python](https://img.shields.io/badge/python-FF1D8D?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-FF1D8D?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-FF1D8D?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Banco de Dados:
-![SQL](https://img.shields.io/badge/MySQL-FF1D8D?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQL](https://img.shields.io/badge/MySQL-FF1D8D?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-FF1D8D?style=for-the-badge&logo=mariadb&logoColor=white)
 
 #### Ferramentas:
 
